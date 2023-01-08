@@ -1,6 +1,6 @@
 public class test{
   private int x;
   public test(){
-    this.x=2;
+    this.x=5;
   }
 }
